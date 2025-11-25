@@ -53,4 +53,4 @@ Para isso, segue uma sugestão de estrutura a ser seguida:
 - Transmita entusiasmo e confiança no projeto.
 
 > **Links Úteis**:
-> [Site que reduz tamanho de vídeo] (https://www.comprimirvideo.com.br/)
+> - [Site que reduz tamanho de vídeo] (https://www.comprimirvideo.com.br/)
