@@ -8,8 +8,8 @@ Nome e marca do projeto
 
 ## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
- 
+O grupo deve elaborar um conjunto de slides que registre, de forma organizada, todas as etapas desenvolvidas ao longo do semestre. Esse material deve contemplar a linha do tempo do projeto, desde a concepção inicial até os resultados finais, podendo incluir também _prints_ das telas da aplicação para ilustrar a entrega concluída.
+
 > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
 > - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
