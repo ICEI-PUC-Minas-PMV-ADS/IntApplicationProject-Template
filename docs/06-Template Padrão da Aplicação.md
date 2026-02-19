@@ -4,6 +4,11 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+**Não se esqueça de:**
+- Definir layout padrão e reutilizável: desenvolver um layout base único, que será reutilizado em todas as páginas da aplicação.
+- Definir identidade visual: definir as cores principais (primárias) e as cores de apoio (secundárias) apresentando a palheta de cores em formato visual e justificando as escolhas (se tiver dúvidas, pesquise mais sobre a teoria das cores)
+- Definir padrão visual dos componentes: botões, caixas de mensagens etc.
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
